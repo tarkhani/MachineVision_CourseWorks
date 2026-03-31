@@ -16,10 +16,6 @@ Coursework collection for a Machine Vision / Computer Vision class, implemented 
 - `A7-Recognition` — classical recognition pipelines
 - `A8-Deep` — deep learning for vision tasks
 
-## Tech stack
-
-- Jupyter Notebook (primary)
-- Python ecosystem for CV/ML (exact packages vary by assignment)
 
 ## How to run
 
@@ -34,10 +30,5 @@ Coursework collection for a Machine Vision / Computer Vision class, implemented 
 - Outputs can differ depending on package versions and environment.
 - This is coursework code, so style and optimization may vary per assignment.
 
-## Purpose
 
-This repo demonstrates:
-- understanding of core machine vision concepts,
-- progression from classical methods to deep learning,
-- practical notebook-based experimentation and analysis.
 
