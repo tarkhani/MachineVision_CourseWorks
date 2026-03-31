@@ -24,11 +24,6 @@ Coursework collection for a Machine Vision / Computer Vision class, implemented 
 3. Launch notebooks in Jupyter Lab/Notebook.
 4. Run cells in order from top to bottom.
 
-## Notes
-
-- Some notebooks may expect local datasets/files that are not included.
-- Outputs can differ depending on package versions and environment.
-- This is coursework code, so style and optimization may vary per assignment.
 
 
 
